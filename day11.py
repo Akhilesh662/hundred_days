@@ -5,3 +5,5 @@ For example, given the query string de and the set of strings [dog, deer, deal],
 
 
 '''
+
+# it can be solved by prefix tree algo
